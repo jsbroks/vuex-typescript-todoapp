@@ -21,8 +21,7 @@ The major goal of version 4 is to support the new Composition API introduced in 
 
 ## Resources
 
-- [Hangman Javascript Github](https://github.com/bradtraversy/vanillawebprojects/tree/master/hangman)
-- [Hangman React Github](https://github.com/codeSTACKr/hangman-react)
-- [Hangman React Tutorial](https://www.youtube.com/watch?v=jj0W8tYX_q8)
-- [20 Web projects course](https://vanillawebprojects.com)
-- [Traversy Media](https://www.traversymedia.com)
+- [Tutorial Video](https://www.youtube.com/watch?v=EeaYWLNXAwQ)
+- [Vuex](https://vuex.vuejs.org/)
+- [You might not need Vuex with Vue 3](https://dev.to/blacksonic/you-might-not-need-vuex-with-vue-3-52e4)
+
